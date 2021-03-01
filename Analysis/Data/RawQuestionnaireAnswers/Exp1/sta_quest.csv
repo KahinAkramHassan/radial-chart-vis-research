@@ -1,0 +1,64 @@
+,file,Q1,Q2,Q3,Q4,Q5,Text,Gender,Age,Education,Interaction
+0,2020-02-04 12.03.10.txt,1,2,1,1,2,-,female,30,bachelor,mouse
+1,2020-02-04 12.11.11.txt,1,3,3,4,2,Hard to judge values for individual bars. ,female,40,master,mouse
+2,2020-02-04 12.33.18.txt,4,4,4,4,4,I can see an issue here with mixing increase and decrease took few seconds to understand the what was going on and later started to doubt if I understood the scales correctly. Easy to see totals and make comparisons as AM and PM are not mixed together.,male,36,phd,mouse
+3,2020-02-04 13.27.00.txt,3,4,2,2,3,-,male,27,bachelor,mouse
+4,2020-02-04 13.54.56.txt,2,2,2,2,3,-,male,36,bachelor,mouse
+5,2020-02-04 19.45.55.txt,4,4,4,2,3,It was very difficult comparing two time periods with each other. Thankfully the buttons to the right visualized what I had to compare when I clicked them.,none,29,master,mouse
+6,2020-02-05 09.02.35.txt,3,2,3,2,2,easier conparing individual hours othervise harder than the others,female,55,bachelor,mouse
+7,2020-02-05 09.07.20.txt,4,4,2,3,4,This is true for all representations. It is very hard to find time ranges so in the end I just used the highlighting feature when you select an answer to find them. ,male,34,phd,mouse
+8,2020-02-05 09.42.45.txt,3,4,4,1,3,-,male,26,master,mouse
+9,2020-02-05 09.53.38.txt,2,3,4,4,4,-,male,31,phd,mouse
+10,2020-02-05 10.47.31.txt,5,5,5,5,3,I prefered this visual representation of time. ,male,39,phd,mouse
+11,2020-02-05 11.23.11.txt,4,4,4,3,2,-,female,31,bachelor,trackpad
+12,2020-02-05 12.35.21.txt,3,3,3,3,3,-,male,29,phd,trackpad
+13,2020-02-05 12.41.58.txt,2,2,2,2,1,-0,male,27,bachelor,mouse
+14,2020-02-05 13.11.39.txt,2,2,2,2,2,-,male,33,master,mouse
+15,2020-02-05 13.36.59.txt,5,4,3,2,3,-,female,35,master,trackpad
+16,2020-02-05 15.47.23.txt,4,3,3,2,3,-,female,30,phd,trackpad
+17,2020-02-05 16.54.58.txt,2,2,1,2,2,"This representation distorts areas between AM and PM makes comparison between AM and PM difficult. E.g. if the value at 1 AM and 1 PM is exactly the same the value at 1 PM will look ""bigger"" than that at 1 AM. Overall the worst viz.",male,29,master,touch
+18,2020-02-05 20.55.19.txt,4,4,4,4,4,-,male,35,phd,trackpad
+19,2020-02-06 07.35.24.txt,3,3,1,1,3,-,female,53,phd,trackpad
+20,2020-02-06 09.50.37.txt,3,3,3,2,2,-,female,37,master,trackpad
+21,2020-02-06 11.13.43.txt,5,5,5,5,5,-,female,29,bachelor,mouse
+22,2020-02-06 12.00.07.txt,5,5,5,5,4,-,male,26,bachelor,mouse
+23,2020-02-06 12.06.54.txt,4,5,5,4,3,-,male,26,bachelor,mouse
+24,2020-02-06 13.54.08.txt,2,2,2,2,2,-,male,26,bachelor,trackpad
+25,2020-02-07 00.42.57.txt,5,5,5,5,5,-,male,28,bachelor,mouse
+26,2020-02-07 17.26.53.txt,5,5,5,2,3,-,female,21,bachelor,trackpad
+27,2020-02-10 20.55.53.txt,5,4,3,4,4,Keeping in line with the second type this still resembles a clock face but also does away with the complicated look of the second type. It does however confuse to use the same axis for both am and pm even if they are separated in the middle. Colors that differ a lot is a necessity here.,male,21,master,trackpad
+28,2020-02-10 21.37.28.txt,2,2,2,2,2,-,male,23,bachelor,mouse
+29,2020-02-11 08.48.42.txt,4,5,4,4,5,Because of the Orange values had more space they seemed larger than the cramped blue values even though they where not.,male,26,bachelor,mouse
+30,2020-02-11 10.25.03.txt,1,1,1,1,1,-,male,28,phd,mouse
+31,2020-02-11 10.25.59.txt,5,5,3,4,4,This representation can create visual illusions for the user. ,male,27,master,mouse
+32,2020-02-11 10.33.54.txt,5,5,4,4,4,-,male,29,master,mouse
+33,2020-02-11 10.49.17.txt,5,5,5,5,5,-,male,31,master,mouse
+34,2020-02-11 13.39.43.txt,2,1,1,2,2,-,male,23,bachelor,mouse
+35,2020-02-11 14.00.09.txt,3,5,2,3,2,-,male,26,bachelor,trackpad
+36,2020-02-11 14.25.30.txt,5,3,3,5,4,The meaning of the height of each bar is unclear since the radial axis isn't labeled or marked with any numbers. Although this representation is quite intuitive timewise I find the growth in opposite direction more difficult to compare than when the bars grow in the same direction. ,female,24,master,mouse
+37,2020-02-11 16.03.23.txt,2,2,2,3,1,-,male,31,phd,trackpad
+38,2020-02-11 16.20.36.txt,2,2,2,3,1,-,male,25,master,mouse
+39,2020-02-11 16.28.14.txt,2,2,2,2,2,The different grow directions of data is a bit confusing and feels unnatural to read.,other,22,master,touch
+40,2020-02-11 18.56.42.txt,5,4,3,5,3,A bit easier than the previous representation due to a more clear distinction between am and pm but still not enough as in the first representation. To summarize I think they have their use cases. While comparison at certain times is easier in the 2nd and 3rd representations I found the first one the easiest to use. But maybe because it was the first one.,male,29,master,trackpad
+41,2020-02-11 21.41.14.txt,2,4,2,2,2,-,male,42,highschool,mouse
+42,2020-02-11 21.44.07.txt,4,3,4,3,3,"It might have been ""harder"" because it was first and my brain was not i a ""pattern recognition mode""",male,27,bachelor,mouse
+43,2020-02-12 04.05.08.txt,2,2,2,2,2,If the AM and PM times are asymmetrically represented a bias will be introduced in how the data are interpreted. PM values will most likely be interpreted higher than AM values.,male,28,master,mouse
+44,2020-02-12 08.28.41.txt,4,4,4,5,2,-,female,24,master,mouse
+45,2020-02-12 09.34.40.txt,4,4,4,5,1,-,male,22,bachelor,mouse
+46,2020-02-12 09.35.17.txt,2,3,2,2,2,-,male,29,master,mouse
+47,2020-02-12 10.57.19.txt,4,4,4,5,5,Felt very nice to work with. ,female,23,master,mouse
+48,2020-02-12 14.44.46.txt,1,1,1,1,1,Very confusing,other,22,bachelor,trackpad
+49,2020-02-12 19.00.31.txt,3,3,2,2,1,-,male,27,master,mouse
+50,2020-02-12 19.03.27.txt,4,3,3,1,2,-,none,33,master,mouse
+51,2020-02-12 20.58.57.txt,4,5,5,2,2,-,male,23,bachelor,trackpad
+52,2020-02-13 11.44.29.txt,2,1,1,1,2,Its so hard to tell the diffrence between height when they are not oriented the same way. The light gray circles does not help enough.,female,24,highschool,mouse
+53,2020-02-13 14.13.44.txt,4,4,3,4,4,-,male,38,master,trackpad
+54,2020-02-13 16.15.16.txt,2,3,2,4,4,-,female,32,master,mouse
+55,2020-02-17 18.44.48.txt,4,3,4,3,5,-,male,21,bachelor,mouse
+56,2020-02-17 19.53.06.txt,3,3,3,3,3,Jobbigt att jämföra in och utsidan,female,32,bachelor,mouse
+57,2020-02-18 12.46.15.txt,5,5,5,5,5,-,male,24,master,trackpad
+58,2020-02-20 10.04.42.txt,4,4,4,3,4,-,male,37,phd,mouse
+59,2020-02-21 20.53.53.txt,5,5,4,3,2,-,male,23,bachelor,mouse
+60,2020-02-23 12.50.18.txt,4,3,3,2,2,-,male,23,master,trackpad
+61,2020-02-26 11.27.59.txt,4,5,3,4,4,-,female,26,master,mouse
+62,2020-03-03 13.12.00.txt,5,5,5,4,3,-,male,77,bachelor,touch

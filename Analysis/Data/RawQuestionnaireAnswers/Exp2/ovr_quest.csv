@@ -1,0 +1,52 @@
+,file,Q1,Q2,Q3,Q4,Q5,Text,Gender,Age,Education,Interaction
+0,2020-03-02 19.11.38.txt,5,4,3,4,4,-,male,28,master,mouse
+1,2020-03-03 08.25.07.txt,5,5,4,5,5,-,male,38,bachelor,mouse
+2,2020-03-03 08.59.16.txt,4,3,2,4,4,Easy to compare between am and pm but very hard to compare between different times. ,male,34,phd,mouse
+3,2020-03-03 10.53.26.txt,5,5,5,5,5,Best between three for comparison of same hour am and pm.,female,39,phd,mouse
+4,2020-03-03 17.10.04.txt,5,4,4,5,5,-,female,30,master,mouse
+5,2020-03-05 08.37.56.txt,4,4,4,3,3,-,male,20,highschool,mouse
+6,2020-03-05 09.02.08.txt,5,3,3,2,5,The structure is easy to understand and is what I would say would be the most 'common' way of describing time. However in my own opinion I found it to be harder to find the correct answer compared to the other visual representations.,female,27,bachelor,trackpad
+7,2020-03-05 09.41.31.txt,4,5,2,4,1,-,male,21,master,trackpad
+8,2020-03-05 09.47.56.txt,3,2,3,1,2,-,male,21,bachelor,trackpad
+9,2020-03-05 10.18.47.txt,4,4,4,3,4,-,female,22,bachelor,trackpad
+10,2020-03-05 10.38.55.txt,5,5,4,4,5,-,female,23,bachelor,trackpad
+11,2020-03-05 14.50.00.txt,4,4,4,3,3,I think the values would be easier to read if the bars followed the shape of the circle like the third type.,male,22,bachelor,mouse
+12,2020-03-05 15.43.20.txt,4,4,2,4,5,When bars were similar height it was hard to select the second one (the one in the back).,other,22,master,trackpad
+13,2020-03-05 15.49.03.txt,2,4,3,3,3,-,female,20,bachelor,touch
+14,2020-03-06 12.03.33.txt,5,4,5,5,5,-,female,23,master,mouse
+15,2020-03-06 14.54.59.txt,5,5,5,5,5,Easy to compare between PM and AM,female,23,master,mouse
+16,2020-03-06 22.20.55.txt,1,1,1,1,1,Do you really need to test this? I guess you want to have some data for your paper but in the end is it not obvious that this is a bad way to represent data if you want people to compare values or single out outliers etc?  I got progressively more irritated during the test but stayed to the end just in hope of writing a comment. A classic line graph would show this data much better for comparing values. I have a really hard time trying to think of a use case.,male,44,master,mouse
+17,2020-03-07 08.47.06.txt,5,5,5,3,4,-,male,31,bachelor,trackpad
+18,2020-03-07 17.57.26.txt,5,5,5,4,5,-,male,21,bachelor,mouse
+19,2020-03-08 14.35.20.txt,4,4,2,5,4,-,male,21,highschool,trackpad
+20,2020-03-09 23.07.35.txt,3,2,3,4,3,-,female,24,bachelor,trackpad
+21,2020-03-10 00.17.02.txt,2,3,1,1,1,-,male,25,bachelor,mouse
+22,2020-03-10 11.57.42.txt,5,5,4,5,5,ugly but easy to use,male,21,master,trackpad
+23,2020-03-10 15.57.25.txt,5,4,5,5,4,-,male,25,bachelor,trackpad
+24,2020-03-16 08.03.00.txt,4,4,4,4,5,-,none,20,highschool,trackpad
+25,2020-03-16 08.38.38.txt,5,5,5,5,5,It was very easy to find the value at a certain time point and compare values but it was slightly confusing when there was inconsistencies in which color was on top.,male,22,bachelor,trackpad
+26,2020-03-16 08.39.41.txt,4,4,5,5,4,-,male,22,master,trackpad
+27,2020-03-16 09.14.03.txt,5,4,4,4,4,-,female,23,bachelor,trackpad
+28,2020-03-16 09.32.33.txt,4,2,3,4,4,-,male,21,bachelor,mouse
+29,2020-03-16 10.12.40.txt,4,5,4,5,5,Easy to understand since the mapping to a clock makes it intuitive. A bit confusing in the beginning that the colors are sometimes AM in front and sometimes PM which I discovered now afterwards is depending on the highest value that is always in the back to allow to see them both. Easy to compare between AM and PM.,female,26,master,trackpad
+30,2020-03-16 10.34.07.txt,4,4,5,5,4,-,female,21,bachelor,mouse
+31,2020-03-16 12.28.00.txt,5,5,5,5,5,-,female,21,bachelor,mouse
+32,2020-03-16 12.32.54.txt,5,5,5,5,5,-,female,19,highschool,trackpad
+33,2020-03-16 12.55.29.txt,5,5,5,5,5,-,male,33,bachelor,mouse
+34,2020-03-16 13.45.50.txt,5,5,5,5,5,-,female,26,master,trackpad
+35,2020-03-16 15.50.15.txt,4,4,4,4,4,-,male,19,bachelor,trackpad
+36,2020-03-16 16.38.07.txt,2,3,2,2,1,when times are very similar it is hard to click them. ,male,22,bachelor,mouse
+37,2020-03-16 17.16.54.txt,2,2,2,2,2,-,male,24,bachelor,mouse
+38,2020-03-16 19.12.33.txt,5,5,5,4,5,-,female,19,highschool,mouse
+39,2020-03-16 19.18.42.txt,4,4,3,2,2,It's somewhat confusing when the bars are on top of each other. It was easier to understand with 12 bars as opposed to 24 like the previous one.,female,27,bachelor,trackpad
+40,2020-03-16 19.44.08.txt,5,3,4,4,4,-,male,23,master,mouse
+41,2020-03-16 20.25.40.txt,5,4,5,5,3,-,female,21,bachelor,trackpad
+42,2020-03-16 20.34.29.txt,4,4,4,4,4,-,female,29,highschool,mouse
+43,2020-03-16 20.59.53.txt,4,4,4,1,3,-,male,19,highschool,mouse
+44,2020-03-16 22.03.16.txt,3,2,2,1,1,-,male,21,highschool,trackpad
+45,2020-03-17 10.41.31.txt,1,2,2,4,2,-,male,20,bachelor,mouse
+46,2020-03-17 12.04.55.txt,5,4,3,5,5,-,female,19,highschool,mouse
+47,2020-03-17 13.09.06.txt,5,4,5,5,5,-,female,21,bachelor,trackpad
+48,2020-03-17 14.35.42.txt,4,3,3,4,4,-,male,20,highschool,trackpad
+49,2020-03-19 11.34.17.txt,3,4,4,4,3,"It was good for comparing the values between the same or adjacent hours especially questions like ""Which values are the most similar"". But the representation made it harder to find specific values such as ""What hour across both AM and PM has the lowest value"". I found it harder to distinguish between AM and PM always having to take a second look which color was related to which. Especially since they did change places depending on the value.",male,34,bachelor,mouse
+50,2020-03-20 14.42.48.txt,3,3,2,4,3,It took me a while to figure out that the AM and PM were not statically placed i.e. that AM wasn't always in the front. When AM and PM had similar lengths it was more difficult to select the element laying behind the other element. I also found it confusing to compare lengths of the bars between different times. Perhaps make each bar more narrow and put them more next to each other rather than on top of each other if possible. I only felt like I could understand and take in the information about a bar if I had it selected to further extrude it from its surroundings. I did not feel that same way about any of the other visualisations. ,female,22,bachelor,mouse

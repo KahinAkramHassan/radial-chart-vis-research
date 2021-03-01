@@ -1,0 +1,58 @@
+,file,Q1,Q2,Q3,Q4,Q5,Text,Gender,Age,Education,Interaction
+0,2020-09-16 18.24.40.txt,1,2,2,1,2,Weird to have one colour's maximum score be the other colour's minimum score.,other,19,highschool,mouse
+1,2020-09-17 11.41.51.txt,2,2,1,3,4,-,female,24,bachelor,mouse
+2,2020-09-18 19.56.06.txt,1,2,1,1,1,-,male,28,bachelor,touch
+3,2020-09-18 20.42.35.txt,1,4,1,4,3,I think the main problem here is that comparing AM and PM values is complicated due to being in different circles and therefore different scales,male,27,master,mouse
+4,2020-09-18 21.20.59.txt,3,3,3,2,1,-,female,21,bachelor,trackpad
+5,2020-09-23 17.53.53.txt,4,5,5,4,5,I think this one looked a lot cleaner than the others. It was more difficult to compare the AM ring to the PM ring,male,20,bachelor,trackpad
+6,2020-09-24 03.47.04.txt,4,5,5,3,4,clear,female,27,phd,mouse
+7,2020-09-24 12.03.20.txt,1,1,1,1,1,-,male,27,master,trackpad
+8,2020-09-25 15.50.56.txt,4,4,4,4,4,-,male,30,phd,mouse
+9,2020-09-25 15.57.16.txt,5,5,3,3,3,-,female,30,phd,trackpad
+10,2020-09-25 16.00.22.txt,2,2,2,2,2,-,male,51,master,trackpad
+11,2020-09-25 16.03.34.txt,4,3,2,3,1,I find hard to compare values between AM and PM ,male,33,master,mouse
+12,2020-09-25 16.11.44.txt,2,3,2,2,1,-,male,34,master,trackpad
+13,2020-09-25 16.12.52.txt,5,3,4,3,5,This was the most difficult for me especially to compare AM/PM.,male,48,phd,mouse
+14,2020-09-25 16.25.02.txt,2,1,1,1,1,-,female,33,phd,trackpad
+15,2020-09-25 16.27.22.txt,4,4,4,2,4,-,male,49,phd,mouse
+16,2020-09-25 16.37.56.txt,1,2,2,4,2,-,male,40,master,trackpad
+17,2020-09-25 16.40.15.txt,5,4,4,4,4,-,male,35,master,mouse
+18,2020-09-25 16.42.03.txt,3,1,2,4,1,Really hard to grasp for me as soon as you want to compare data.,male,46,phd,mouse
+19,2020-09-25 16.42.13.txt,5,5,5,4,5,-,male,25,bachelor,mouse
+20,2020-09-25 16.46.51.txt,5,5,5,4,5,-,male,34,master,mouse
+21,2020-09-25 16.48.04.txt,3,3,4,2,2,-,female,36,master,trackpad
+22,2020-09-25 16.53.18.txt,4,4,4,4,4,-,male,45,phd,mouse
+23,2020-09-25 16.53.35.txt,4,3,3,5,2,-,female,38,master,mouse
+24,2020-09-25 16.54.27.txt,2,1,1,3,1,-,male,39,master,trackpad
+25,2020-09-25 17.10.22.txt,4,5,5,3,5,-,male,22,master,trackpad
+26,2020-09-25 17.10.29.txt,5,1,1,3,1,-,male,51,master,mouse
+27,2020-09-25 17.16.18.txt,4,2,1,1,1,-,male,18,bachelor,trackpad
+28,2020-09-25 17.19.02.txt,5,3,3,2,5,-,male,50,master,mouse
+29,2020-09-25 17.21.36.txt,4,2,3,5,2,-,male,32,master,mouse
+30,2020-09-25 17.22.09.txt,1,2,1,2,2,-,male,63,master,touch
+31,2020-09-25 17.27.01.txt,3,3,2,2,3,-,male,30,master,mouse
+32,2020-09-25 17.29.46.txt,4,3,2,3,2,Easy to find data on eather AM or PM range but not comparing them,female,30,master,mouse
+33,2020-09-25 17.41.09.txt,5,5,5,4,4,1-I am astigmatic so I got some trouble on a few questions with very close differences (on every section),male,71,master,touch
+34,2020-09-25 17.43.28.txt,5,1,2,4,4,Difficult to compare AM and PM. For identical values PM may seems higher.,male,45,master,trackpad
+35,2020-09-25 17.45.45.txt,3,2,2,2,2,-,male,50,master,mouse
+36,2020-09-25 17.53.45.txt,4,4,4,3,3,-,male,25,master,mouse
+37,2020-09-25 17.58.29.txt,4,3,5,2,2,-,female,45,phd,trackpad
+38,2020-09-25 18.08.34.txt,1,1,3,2,2,Easier to find time but very hard to compare values unitary or globally. Note : I almost never use a analogic clock and I love in France (24h used when written 12h/24h used when talked),male,34,master,mouse
+39,2020-09-25 18.11.07.txt,4,5,4,4,4,it is confusing not to have the bars starting on the same circle,female,28,phd,mouse
+40,2020-09-25 18.25.59.txt,4,4,2,2,2,-,female,33,bachelor,mouse
+41,2020-09-25 18.38.16.txt,5,3,2,4,5,-,male,41,phd,mouse
+42,2020-09-25 18.39.32.txt,4,3,2,3,3,-,male,46,master,mouse
+43,2020-09-25 18.40.23.txt,5,5,5,4,3,-,male,41,phd,mouse
+44,2020-09-25 18.51.12.txt,3,4,3,4,3,-,male,44,master,mouse
+45,2020-09-25 19.00.10.txt,1,1,1,3,3,-,female,33,phd,mouse
+46,2020-09-25 19.42.51.txt,4,4,2,3,3,-,female,41,master,mouse
+47,2020-09-25 19.57.13.txt,3,2,3,3,4,comparisons between AM and PM are harder,male,41,phd,trackpad
+48,2020-09-25 20.41.53.txt,4,3,1,2,4,-,female,37,phd,mouse
+49,2020-09-25 21.02.10.txt,2,2,2,5,3,Quite disturbing for comparing AM and PM values.,male,30,master,trackpad
+50,2020-09-25 22.27.08.txt,4,4,5,4,4,-,female,44,master,touch
+51,2020-09-25 23.02.45.txt,3,3,2,2,2,-,male,36,master,touch
+52,2020-09-25 23.05.38.txt,5,5,5,5,5,This is how children's watches are made (at least in France) so easy to use. Location is enough information.,female,34,bachelor,trackpad
+53,2020-09-25 23.52.25.txt,2,5,4,1,4,-,male,42,master,touch
+54,2020-09-26 11.06.54.txt,5,5,5,4,4,-,male,23,bachelor,mouse
+55,2020-10-13 09.51.03.txt,3,3,1,1,1,Definitely the most difficult one to compare with. Don't do this again please.,female,23,master,mouse
+56,2020-10-13 23.21.40.txt,2,3,3,3,3,-,male,38,master,trackpad

@@ -1,0 +1,52 @@
+,file,Q1,Q2,Q3,Q4,Q5,Text,Gender,Age,Education,Interaction
+0,2020-03-02 19.11.38.txt,4,4,4,2,2,-,male,28,master,mouse
+1,2020-03-03 08.25.07.txt,5,4,3,5,3,Harder to compare values between AM and PM,male,38,bachelor,mouse
+2,2020-03-03 08.59.16.txt,4,2,3,4,4,The worst of the three crappy ways of showing time data. ,male,34,phd,mouse
+3,2020-03-03 10.53.26.txt,5,5,5,5,5,Harder between three to make comparison of same hour am and pm. (PS: can't find the option for none of your business under age ),female,39,phd,mouse
+4,2020-03-03 17.10.04.txt,3,2,2,3,3,-,female,30,master,mouse
+5,2020-03-05 08.37.56.txt,5,5,4,4,4,-,male,20,highschool,mouse
+6,2020-03-05 09.02.08.txt,5,4,4,4,5,This structure is also easy to understand. I like the visualisation and for most of the question it was easy to find the correct anser. It was harder to compare which time was the most equal between AM and PM.,female,27,bachelor,trackpad
+7,2020-03-05 09.41.31.txt,4,5,2,2,2,-,male,21,master,trackpad
+8,2020-03-05 09.47.56.txt,3,2,1,2,2,-,male,21,bachelor,trackpad
+9,2020-03-05 10.18.47.txt,4,3,2,3,3,-,female,22,bachelor,trackpad
+10,2020-03-05 10.38.55.txt,5,5,5,5,5,-,female,23,bachelor,trackpad
+11,2020-03-05 14.50.00.txt,4,2,2,2,1,I think the values would be easier to read if the bars followed the shape of the circle like the third type.,male,22,bachelor,mouse
+12,2020-03-05 15.43.20.txt,5,4,4,4,4,Hard to compare similarities fast.,other,22,master,trackpad
+13,2020-03-05 15.49.03.txt,5,4,4,5,5,-,female,20,bachelor,touch
+14,2020-03-06 12.03.33.txt,4,2,2,2,2,-,female,23,master,mouse
+15,2020-03-06 14.54.59.txt,5,5,4,4,5,Not as easy to compare between PM and AM,female,23,master,mouse
+16,2020-03-06 22.20.55.txt,1,1,1,1,1,Do you really need to test this? I guess you want to have some data for your paper but in the end is it not obvious that this is a bad way to represent data if you want people to compare values or single out outliers etc?  I got progressively more irritated during the test but stayed to the end just in hope of writing a comment. A classic line graph would show this data much better for comparing values. I have a really hard time trying to think of a use case.,male,44,master,mouse
+17,2020-03-07 08.47.06.txt,4,4,4,4,4,-,male,31,bachelor,trackpad
+18,2020-03-07 17.57.26.txt,5,3,3,5,5,-,male,21,bachelor,mouse
+19,2020-03-08 14.35.20.txt,5,3,4,5,4,-,male,21,highschool,trackpad
+20,2020-03-09 23.07.35.txt,4,4,5,4,4,-,female,24,bachelor,trackpad
+21,2020-03-10 00.17.02.txt,4,4,5,3,4,-,male,25,bachelor,mouse
+22,2020-03-10 11.57.42.txt,4,4,5,3,4,could give false answers because the outer circle is bigger thus giving the visual of bugger graphs,male,21,master,trackpad
+23,2020-03-10 15.57.25.txt,4,3,4,4,3,-,male,25,bachelor,trackpad
+24,2020-03-16 08.03.00.txt,4,4,4,4,4,-,none,20,highschool,trackpad
+25,2020-03-16 08.38.38.txt,5,4,5,5,4,It was very easy to find the value at a certain time point but it was slightly confusing because of that the scales for am and pm visually appeared to be somewhat different and therefore hard to compare am and pm.,male,22,bachelor,trackpad
+26,2020-03-16 08.39.41.txt,3,4,3,4,3,-,male,22,master,trackpad
+27,2020-03-16 09.14.03.txt,4,4,4,2,3,-,female,23,bachelor,trackpad
+28,2020-03-16 09.32.33.txt,4,4,5,3,3,-,male,21,bachelor,mouse
+29,2020-03-16 10.12.40.txt,4,4,3,5,4,Pretty easy to understand as the first representation the mapping to the clock makes it intuitive. Has drawbacks regarding comparison between AM and PM since they are separated from eachother.,female,26,master,trackpad
+30,2020-03-16 10.34.07.txt,5,4,5,5,5,-,female,21,bachelor,mouse
+31,2020-03-16 12.28.00.txt,4,4,4,4,4,-,female,21,bachelor,mouse
+32,2020-03-16 12.32.54.txt,4,4,4,3,4,-,female,19,highschool,trackpad
+33,2020-03-16 12.55.29.txt,5,4,3,5,4,-,male,33,bachelor,mouse
+34,2020-03-16 13.45.50.txt,2,2,1,5,1,-,female,26,master,trackpad
+35,2020-03-16 15.50.15.txt,2,4,4,4,4,-,male,19,bachelor,trackpad
+36,2020-03-16 16.38.07.txt,4,4,4,4,4,-,male,22,bachelor,mouse
+37,2020-03-16 17.16.54.txt,1,1,1,1,1,-,male,24,bachelor,mouse
+38,2020-03-16 19.12.33.txt,5,4,5,5,4,-,female,19,highschool,mouse
+39,2020-03-16 19.18.42.txt,4,4,4,4,4,This one was the easiest to understand. The bars aren't all mixed up laying on top of each other. The four circles representing minutes in both AM and PM are smaller which gives me a better overlook of things. Of the three I prefer this one.,female,27,bachelor,trackpad
+40,2020-03-16 19.44.08.txt,5,4,2,5,4,-,male,23,master,mouse
+41,2020-03-16 20.25.40.txt,3,3,3,5,4,-,female,21,bachelor,trackpad
+42,2020-03-16 20.34.29.txt,2,2,3,1,3,-,female,29,highschool,mouse
+43,2020-03-16 20.59.53.txt,4,1,1,4,2,-,male,19,highschool,mouse
+44,2020-03-16 22.03.16.txt,3,3,2,3,2,-,male,21,highschool,trackpad
+45,2020-03-17 10.41.31.txt,4,4,3,4,4,-,male,20,bachelor,mouse
+46,2020-03-17 12.04.55.txt,5,4,3,4,5,-,female,19,highschool,mouse
+47,2020-03-17 13.09.06.txt,1,1,1,1,1,-,female,21,bachelor,trackpad
+48,2020-03-17 14.35.42.txt,3,2,2,2,3,-,male,20,highschool,trackpad
+49,2020-03-19 11.34.17.txt,4,4,4,4,3,Made it really easy to find AM or PM since they we're always in the same place. It was harder than the first representation to find similarities or dissimilarities especially to compare the dissimilarities across multiple pairs.,male,34,bachelor,mouse
+50,2020-03-20 14.42.48.txt,4,4,4,4,4,"I thought this was the easiest visualisation to understand. I know that my alarm clock on my phone (oneplus 5t) has a similar layout that you turn the handles in an inner- or outer circle to decide if the time is AM or PM. It was clear which bar belonged to which time and to AM and PM. At first I instinctively thought that the outer ones looked longer but I rather quickly started referring to the ""measuring circles"" for reference.",female,22,bachelor,mouse

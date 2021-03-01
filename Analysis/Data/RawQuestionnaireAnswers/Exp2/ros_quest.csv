@@ -1,0 +1,52 @@
+,file,Q1,Q2,Q3,Q4,Q5,Text,Gender,Age,Education,Interaction
+0,2020-03-02 19.11.38.txt,2,2,3,3,3,-,male,28,master,mouse
+1,2020-03-03 08.25.07.txt,5,4,2,1,2,"I missinterpeded what the times meant if 8AM meant the ""pie-slize"" between 7-8 or 8-9. It din't become obvious untill the later stage of the questions where the task was to ""find the largest"" and you would choose graphically and the numerical value was not what i had expected. Also the values should be a little transparent so you can read the gradings behind.",male,38,bachelor,mouse
+2,2020-03-03 08.59.16.txt,4,3,4,1,4,Easy to compare between different times and harder to compare between am and pm. Also how the hell is having the data before the time stamp in any way an intuitive way of showing time data? Pretty sure that I am of by one hour on every answer.,male,34,phd,mouse
+3,2020-03-03 10.53.26.txt,4,3,4,4,5,At beginning had to think which slice is 1 and which 12 but there was a quick learning effect.  Good for comparison of same hour am and pm. Felt best for assessing total range value,female,39,phd,mouse
+4,2020-03-03 17.10.04.txt,1,1,1,1,2,-,female,30,master,mouse
+5,2020-03-05 08.37.56.txt,5,4,5,5,5,-,male,20,highschool,mouse
+6,2020-03-05 09.02.08.txt,5,4,5,5,5,This is by far my favourite structure and surprisingly easy to follow. The only issue is how the numbers 1-12 is placed which made the decision of finding the right time a bit harder I always wanted to choose for example the time-pie for 5 if looking for the time-pie of 4. In those questions I think the placement of the numbers were harder for me personally to get the hang of however I understand why they must be placed like that and it's still my personal favourite.,female,27,bachelor,trackpad
+7,2020-03-05 09.41.31.txt,3,5,4,1,4,-,male,21,master,trackpad
+8,2020-03-05 09.47.56.txt,3,3,2,2,3,-,male,21,bachelor,trackpad
+9,2020-03-05 10.18.47.txt,5,5,4,4,4,-,female,22,bachelor,trackpad
+10,2020-03-05 10.38.55.txt,4,3,4,2,5,-,female,23,bachelor,trackpad
+11,2020-03-05 14.50.00.txt,4,3,4,3,3,-,male,22,bachelor,mouse
+12,2020-03-05 15.43.20.txt,2,4,2,4,3,It is hard to quickly see which bar belongs to which time because the number is in between two bars.,other,22,master,trackpad
+13,2020-03-05 15.49.03.txt,3,4,4,4,4,-,female,20,bachelor,touch
+14,2020-03-06 12.03.33.txt,4,4,4,4,5,-,female,23,master,mouse
+15,2020-03-06 14.54.59.txt,4,2,2,1,3,"Hard to compare between AM and PM but also hard to compare values within AM or PM. Hard to see where one time slot was since the numbers are not directly in line with the ""pie pieces"" instead they are in between.",female,23,master,mouse
+16,2020-03-06 22.20.55.txt,1,1,1,1,1,Do you really need to test this? I guess you want to have some data for your paper but in the end is it not obvious that this is a bad way to represent data if you want people to compare values or single out outliers etc?  I got progressively more irritated during the test but stayed to the end just in hope of writing a comment. A classic line graph would show this data much better for comparing values. I have a really hard time trying to think of a use case.,male,44,master,mouse
+17,2020-03-07 08.47.06.txt,1,3,5,1,3,-,male,31,bachelor,trackpad
+18,2020-03-07 17.57.26.txt,3,3,2,2,3,-,male,21,bachelor,mouse
+19,2020-03-08 14.35.20.txt,2,4,2,2,1,-,male,21,highschool,trackpad
+20,2020-03-09 23.07.35.txt,5,5,5,5,5,-,female,24,bachelor,trackpad
+21,2020-03-10 00.17.02.txt,5,4,3,1,3,-,male,25,bachelor,mouse
+22,2020-03-10 11.57.42.txt,3,3,5,3,4,Beautiful but difficult to compare between am and pm,male,21,master,trackpad
+23,2020-03-10 15.57.25.txt,2,4,3,1,3,Was really difficult to know which time was 12AM for example couldn't tell if it was the part before or after.,male,25,bachelor,trackpad
+24,2020-03-16 08.03.00.txt,5,5,4,5,5,-,none,20,highschool,trackpad
+25,2020-03-16 08.38.38.txt,2,4,4,1,2,It was easy to evaluate the value at a certain place when highlighting it but it was very hard to tell which time the value represented,male,22,bachelor,trackpad
+26,2020-03-16 08.39.41.txt,2,2,3,2,2,-,male,22,master,trackpad
+27,2020-03-16 09.14.03.txt,1,1,1,1,1,This one is a nightmare. ,female,23,bachelor,trackpad
+28,2020-03-16 09.32.33.txt,5,5,5,5,5,-,male,21,bachelor,mouse
+29,2020-03-16 10.12.40.txt,2,3,2,1,3,"Hard to compare and see the connections between AM and PM not intuitive that it is opposite to the other value and that makes it harder to compare between AM and PM values. Only positive I found in this visual representation was that the questions regarding ""which range of times has the highest/lowest value"" was easier to determine since this representation displays values as ""areas"" and it is easy to compare visually which area is the biggest/smallest rather than trying to add up columns.",female,26,master,trackpad
+30,2020-03-16 10.34.07.txt,2,4,2,3,2,-,female,21,bachelor,mouse
+31,2020-03-16 12.28.00.txt,3,3,4,3,4,-,female,21,bachelor,mouse
+32,2020-03-16 12.32.54.txt,3,1,2,1,2,-,female,19,highschool,trackpad
+33,2020-03-16 12.55.29.txt,2,3,2,2,3,-,male,33,bachelor,mouse
+34,2020-03-16 13.45.50.txt,3,3,1,1,1,-,female,26,master,trackpad
+35,2020-03-16 15.50.15.txt,4,2,3,4,4,-,male,19,bachelor,trackpad
+36,2020-03-16 16.38.07.txt,2,2,2,1,1,Took me a couple of times before realizing which field was which time.,male,22,bachelor,mouse
+37,2020-03-16 17.16.54.txt,5,4,5,2,2,"I didn't understand what ""values"" meant at first.",male,24,bachelor,mouse
+38,2020-03-16 19.12.33.txt,2,5,5,4,5,It was hard to know if for example the value for 10 am is represented by the box between 9 and 10 or by the box between 10 and 11. Thinking about it as a clock makes you believe that the area between 10 and 11 represents the value for 10.,female,19,highschool,mouse
+39,2020-03-16 19.18.42.txt,3,3,3,2,2,I had to count the bars to know which one was seven AM because I didn't know if it was between 6-7 och 7-8. It was the toughest one of the three.,female,27,bachelor,trackpad
+40,2020-03-16 19.44.08.txt,2,2,4,2,2,-,male,23,master,mouse
+41,2020-03-16 20.25.40.txt,2,3,4,2,4,-,female,21,bachelor,trackpad
+42,2020-03-16 20.34.29.txt,3,3,3,4,2,-,female,29,highschool,mouse
+43,2020-03-16 20.59.53.txt,5,5,5,5,5,-,male,19,highschool,mouse
+44,2020-03-16 22.03.16.txt,4,4,3,4,3,-,male,21,highschool,trackpad
+45,2020-03-17 10.41.31.txt,2,3,2,1,3,-,male,20,bachelor,mouse
+46,2020-03-17 12.04.55.txt,2,2,2,4,2,-,female,19,highschool,mouse
+47,2020-03-17 13.09.06.txt,4,3,5,1,2,-,female,21,bachelor,trackpad
+48,2020-03-17 14.35.42.txt,4,3,4,4,4,-,male,20,highschool,trackpad
+49,2020-03-19 11.34.17.txt,4,4,4,2,3,"Not really the most intuitive way to represent hour since it differs from the classic clock layout. However with some everyday exposure I believe it to be quite easy to pick up. Very hard to find similarities and dissimilarities between the pairs such as: ""what hours are the most similar"". This was made harder if the hours with similar ratios were far from each other. However it was easier to find similarities/dissimilarities with this representation than the second representation  IF the similar valued pairs we're close to each other. Easy to find specific answers to specific values such as ""What hour has the highest/smallest value"".",male,34,bachelor,mouse
+50,2020-03-20 14.42.48.txt,1,2,2,2,3,"It was unnessecarily unclear whether the ""pie-piece"" corresponding to the time was the one above or below the time. Especially since the direction (i.e. whether the piece is above or below) changes depending of which side of the clock you are on. For me to understand it better I would have liked the numbers to be in the centre of the end of the pieces.",female,22,bachelor,mouse

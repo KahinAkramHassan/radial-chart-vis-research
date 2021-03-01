@@ -1,0 +1,64 @@
+,file,Q1,Q2,Q3,Q4,Q5,Text,Gender,Age,Education,Interaction
+0,2020-02-04 12.03.10.txt,3,3,3,2,3,-,female,30,bachelor,mouse
+1,2020-02-04 12.11.11.txt,5,5,5,5,4,Preferred this most ,female,40,master,mouse
+2,2020-02-04 12.33.18.txt,4,4,3,2,5,The radial representation feels artificial here I don't see what this brings compared to normal barplots as the clock-style is broken and we have just two halves (curved barplots...). Easy to compare totals perhaps bit more difficult to compare specific AM and PM values or two AM (or PM) values together than with first option.,male,36,phd,mouse
+3,2020-02-04 13.27.00.txt,5,5,5,4,4,-,male,27,bachelor,mouse
+4,2020-02-04 13.54.56.txt,3,3,3,1,4,-,male,36,bachelor,mouse
+5,2020-02-04 19.45.55.txt,4,1,1,1,2,It was very difficult comparing two time periods with each other. Thankfully the buttons to the right visualized what I had to compare when I clicked them. Whenever times on opposite sides were compared it became extremely hard to compare them. Unfortunately the test did not have that many such examples.,none,29,master,mouse
+6,2020-02-05 09.02.35.txt,5,4,4,3,4,harder to compare accoss,female,55,bachelor,mouse
+7,2020-02-05 09.07.20.txt,2,3,1,2,3,-,male,34,phd,mouse
+8,2020-02-05 09.42.45.txt,4,3,4,5,4,-,male,26,master,mouse
+9,2020-02-05 09.53.38.txt,2,3,4,1,2,-,male,31,phd,mouse
+10,2020-02-05 10.47.31.txt,3,5,5,2,2,In this setting I would be confused and switch between two readings of the time i.e. is the staple at 7 a.m. indicating that the current time is soon 06.30 a.m. or 07.30 a.m.  ,male,39,phd,mouse
+11,2020-02-05 11.23.11.txt,3,4,3,3,2,-,female,31,bachelor,trackpad
+12,2020-02-05 12.35.21.txt,3,2,2,2,2,-,male,29,phd,trackpad
+13,2020-02-05 12.41.58.txt,4,5,4,4,5,-0,male,27,bachelor,mouse
+14,2020-02-05 13.11.39.txt,4,4,4,4,4,-,male,33,master,mouse
+15,2020-02-05 13.36.59.txt,4,4,3,2,5,-,female,35,master,trackpad
+16,2020-02-05 15.47.23.txt,3,2,2,2,3,-,female,30,phd,trackpad
+17,2020-02-05 16.54.58.txt,4,4,3,5,4,"Much more difficult to compare single AM/PM values compared to the first visualisation. E.g. tasks like ""find closest/most dissimilar value between AM and PM"" Slightly easier to compare total values across multiple time slots e.g. compare the total value between 1-3 AM and 5-9 PM. I do not think much of time in terms of AM and PM but rather my ""mental clock"" goes from 00:00 to 23:59. So I have a preference for this visualisation with respect to the presentation of time.",male,29,master,touch
+18,2020-02-05 20.55.19.txt,4,2,3,3,3,More difficult to compare AM and PM,male,35,phd,trackpad
+19,2020-02-06 07.35.24.txt,3,3,1,1,3,-,female,53,phd,trackpad
+20,2020-02-06 09.50.37.txt,5,4,4,3,4,-,female,37,master,trackpad
+21,2020-02-06 11.13.43.txt,2,2,1,3,3,-,female,29,bachelor,mouse
+22,2020-02-06 12.00.07.txt,3,4,4,4,4,-,male,26,bachelor,mouse
+23,2020-02-06 12.06.54.txt,3,3,2,2,2,Have you considered the aspect of interaction? The third graph is good for comparisons in close proximity but by interacting with the graphs you can get a quite good estimate of how the values compare anyway. It would be considerably harder to do this for this graph than the others without that the background indicators is also something that's not a necessity for the other graphs but is a necessity in this case as it is slightly offset.,male,26,bachelor,mouse
+24,2020-02-06 13.54.08.txt,2,3,3,2,3,-,male,26,bachelor,trackpad
+25,2020-02-07 00.42.57.txt,5,5,5,5,5,-,male,28,bachelor,mouse
+26,2020-02-07 17.26.53.txt,1,4,3,1,2,-,female,21,bachelor,trackpad
+27,2020-02-10 20.55.53.txt,5,5,5,5,5,Very intuitive way to represent time since it includes an already used model for showing one day/night cycle. Comparing between 5am and 5pm for example is not as easy here though.,male,21,master,trackpad
+28,2020-02-10 21.37.28.txt,4,3,4,4,4,-,male,23,bachelor,mouse
+29,2020-02-11 08.48.42.txt,1,1,4,1,2,I kept thinking that it was a twelve hour clockface and got confused looking for the correct times. A 24 hour clockface is not that common.,male,26,bachelor,mouse
+30,2020-02-11 10.25.03.txt,5,5,5,5,5,-,male,28,phd,mouse
+31,2020-02-11 10.25.59.txt,5,4,2,4,2,It's not intuitive to see 1-12 as half a circle. ,male,27,master,mouse
+32,2020-02-11 10.33.54.txt,3,3,3,2,3,-,male,29,master,mouse
+33,2020-02-11 10.49.17.txt,5,5,5,5,5,-,male,31,master,mouse
+34,2020-02-11 13.39.43.txt,3,2,3,2,2,-,male,23,bachelor,mouse
+35,2020-02-11 14.00.09.txt,5,5,5,5,4,-,male,26,bachelor,trackpad
+36,2020-02-11 14.25.30.txt,5,3,4,3,3,The meaning of the height of each bar is unclear since the radial axis isn't labeled or marked with any numbers. A little difficult to compare things at the same hour night/day. I find it hard to find which bar is the opposing bar directly. Also the twelve hour clock is more intuitive for showing time. ,female,24,master,mouse
+37,2020-02-11 16.03.23.txt,4,3,3,4,4,-,male,31,phd,trackpad
+38,2020-02-11 16.20.36.txt,4,3,4,5,3,-,male,25,master,mouse
+39,2020-02-11 16.28.14.txt,5,4,5,5,5,Best visualization for comparing ranges of times between am and pm because of its grouping.,other,22,master,touch
+40,2020-02-11 18.56.42.txt,5,5,5,4,4,Even though the other representations may be more intuitive due to the similarities to the analogue clocks we are used to I thought this representation was the easiest to use. Mainly because the separation between am and pm are obvious. The difficulties with this representation is to select the time with most similar or most distinguished values.,male,29,master,trackpad
+41,2020-02-11 21.41.14.txt,1,1,1,1,1,-,male,42,highschool,mouse
+42,2020-02-11 21.44.07.txt,5,3,5,2,3,The double sets of numbers makes things take longer to find.,male,27,bachelor,mouse
+43,2020-02-12 04.05.08.txt,3,2,3,3,2,This representation is superior in most cases but when data values of the same time in AM and PM need to be compared the first representation does a better job. when globally comparing data values however this representation is the easiest to read.,male,28,master,mouse
+44,2020-02-12 08.28.41.txt,5,3,3,3,5,-,female,24,master,mouse
+45,2020-02-12 09.34.40.txt,5,5,4,5,3,-,male,22,bachelor,mouse
+46,2020-02-12 09.35.17.txt,4,5,2,2,4,-,male,29,master,mouse
+47,2020-02-12 10.57.19.txt,3,4,4,3,5,This was hard at first but felt easier as time went on. ,female,23,master,mouse
+48,2020-02-12 14.44.46.txt,1,1,1,1,1,Very confusing,other,22,bachelor,trackpad
+49,2020-02-12 19.00.31.txt,5,5,5,5,5,-,male,27,master,mouse
+50,2020-02-12 19.03.27.txt,5,5,4,3,4,-,none,33,master,mouse
+51,2020-02-12 20.58.57.txt,2,2,2,1,1,-,male,23,bachelor,trackpad
+52,2020-02-13 11.44.29.txt,4,2,1,1,2,Its so hard to tell the diffrence between height when they are not oriented the same way. The light gray circles does not help enough.,female,24,highschool,mouse
+53,2020-02-13 14.13.44.txt,3,4,3,2,4,-,male,38,master,trackpad
+54,2020-02-13 16.15.16.txt,4,2,4,2,3,-,female,32,master,mouse
+55,2020-02-17 18.44.48.txt,5,4,5,4,5,-,male,21,bachelor,mouse
+56,2020-02-17 19.53.06.txt,2,2,2,2,1,Denna var sämst eftersom den gick emot det vanliga sättet att läsa klockan. 12 uppe och mera kanske är effektivtmen man är så van och inlärd att 12 är högst upp och 6 längst ner.,female,32,bachelor,mouse
+57,2020-02-18 12.46.15.txt,4,3,4,1,3,-,male,24,master,trackpad
+58,2020-02-20 10.04.42.txt,5,4,4,4,4,-,male,37,phd,mouse
+59,2020-02-21 20.53.53.txt,4,3,3,4,5,-,male,23,bachelor,mouse
+60,2020-02-23 12.50.18.txt,4,3,4,2,2,-,male,23,master,trackpad
+61,2020-02-26 11.27.59.txt,4,5,4,4,5,-,female,26,master,mouse
+62,2020-03-03 13.12.00.txt,4,3,4,3,3,-,male,77,bachelor,touch
